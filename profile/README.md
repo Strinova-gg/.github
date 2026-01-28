@@ -8,14 +8,16 @@ https://stringify.gg
 <None at this time, contact us for an early access invite to stringify>
 
 # 👩🏻‍💻 In flight projects 
-## Strinova-Replay-Analyzer
-- Player stat tracker & replay analyzer
+### Strinova-Replay-Analyzer
+Backend micro-service for analyizing replays asynchronously
+
+Note: Due to the nature of this project, it cannot be open-source as the repo contains code that is useful for cheating
 
 ### Tourny
-- Tournament hosting platform (w KYC & Payouts)
+Tournament hosting platform (w KYC & Payouts)
 
-### Strinova Data
-- Raw Data (up to date stats for all agents, util, cool-downs, gamemodes etc. in a JSON format for devs)
+### Strinova Data (stringify)
+Player data & global game history tracking (note: only for uploaded replays)
 
 ### FeatureFlag
 FeatureFlag is a multi-treatment AB (A/B/n) testing framework.
