@@ -24,3 +24,9 @@ FeatureFlag is a multi-treatment AB (A/B/n) testing framework.
 
 # Potential Future Projects
 - Lineups (guide on positioning for mere, utility lineups)
+
+# Our domains
+We own several domains. This is the authorative list of what domains we own and utilize
+- [https://strin.gg/](https://strin.gg/)
+- [https://stringify.gg/](https://stringify.gg/)
+- [https://strinova.gg/](https://strinova.gg/)
