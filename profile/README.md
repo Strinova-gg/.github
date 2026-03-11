@@ -10,6 +10,8 @@ A simple application designed to make it easy to create and share plans.
 
 Currently only stores data locally with no sharing features.
 
+[Check it out here](https://map.strinova.gg/)
+
 # 👩🏻‍💻 In flight projects 
 ### Strinova-Replay-Analyzer
 Backend micro-service for analyizing replays asynchronously
