@@ -5,7 +5,10 @@
 https://stringify.gg
 
 # 🚀 Deployed & Launched
-<None at this time, contact us for an early access invite to stringify>
+### [Map Planner](https://github.com/Strinova-gg/map-planner)
+A simple application designed to make it easy to create and share plans.
+
+Currently only stores data locally with no sharing features.
 
 # 👩🏻‍💻 In flight projects 
 ### Strinova-Replay-Analyzer
